@@ -64,4 +64,4 @@ This notebook provides a simple yet powerful approach to forecasting emissions u
 
 ---
 
-🧠 _Developed by Sourabh Joshi – M.Tech in Power Electronics & Drives, passionate about clean energy, data science, and global impact._
+ Developed by Sourabh Joshi – M.Tech in Power Electronics & Drives, passionate about clean energy, data science, and global impact.
