@@ -52,16 +52,18 @@ This notebook demonstrates how to use Facebook's [Prophet](https://facebook.gith
 
 ### Conclusion
 
-This notebook provides a simple yet powerful approach to forecasting emissions using Prophet. It can help policymakers, researchers, and the public understand the trajectory of emissions and the need for intervention.
+India’s CO₂ emissions are on a sharply rising trajectory and are projected to exceed 3.1 billion tonnes by 2030, if current trends continue.
+Using Facebook Prophet, a time-series model, we captured the long-term trend in emissions growth since 1960 and forecasted it up to 2045.
+The model’s results reinforce the urgency for sustainable energy transitions and policy interventions to mitigate future environmental impact.
 
 ---
 
 ### Future Work
 
 - Compare results with ARIMA, LSTM, or other deep learning models.
-- Add external regressors like GDP, population, energy mix, or policies.
 - Explore forecasting for other countries or per capita emissions.
+- While Prophet handled the trend well, integrating external factors like GDP, energy mix, and industrial growth could enhance prediction accuracy — a potential direction for future work.
 
 ---
 
- Developed by Sourabh Joshi – M.Tech in Power Electronics & Drives, passionate about clean energy, data science, and global impact.
+ Developed by Sourabh Joshi : M.Tech in Power Electronics & Drives, passionate about clean energy, data science, and global impact.
