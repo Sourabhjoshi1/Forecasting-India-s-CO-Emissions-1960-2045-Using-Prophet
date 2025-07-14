@@ -1,7 +1,7 @@
 
 # Forecasting India's CO₂ Emissions (1960–2045) Using Facebook Prophet
 
-This notebook demonstrates how to use Facebook's [Prophet](https://facebook.github.io/prophet/) model to forecast India's CO₂ emissions over the next 30 years based on historical data from 1960 to 2019.
+In this notebook we have demonstrated the use Facebook's [Prophet](https://facebook.github.io/prophet/) model to forecast India's CO₂ emissions over the next 30 years based on historical data from 1960 to 2019.
 
 ---
 
